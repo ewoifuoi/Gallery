@@ -1,4 +1,4 @@
-![1-ezgif com-video-to-gif-converter](https://github.com/ewoifuoi/Gallery/assets/47176322/3d723380-9256-495c-9fd8-9550d6268f8e)
+![2](https://github.com/ewoifuoi/Gallery/assets/47176322/3666f2f8-6ee7-4f1c-997c-d1a7bc39acb2)
 
 ![1-ezgif com-video-to-gif-converter](https://github.com/ewoifuoi/Gallery/assets/47176322/18f7fe00-439c-42fa-98d5-1ffdb3b6d113)
 
