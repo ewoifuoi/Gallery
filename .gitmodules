@@ -1,0 +1,6 @@
+[submodule "fanartGallery"]
+	path = fanartGallery
+	url = https://github.com/ewoifuoi/fanartGallery.git
+[submodule "fanartServer"]
+	path = fanartServer
+	url = https://github.com/ewoifuoi/fanartServer.git
