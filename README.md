@@ -6,8 +6,6 @@
 
 ![QQ截图20240606155150](https://github.com/ewoifuoi/Gallery/assets/47176322/3438c75b-1e24-478a-a88e-e66f1ddfe4bb)
 
-![QQ截图20240528185905](https://github.com/ewoifuoi/Gallery/assets/47176322/9883f5d8-ce0e-436d-8dff-3ee1da3c356c)
-
 ![QQ截图20240606160120](https://github.com/ewoifuoi/Gallery/assets/47176322/cb7b2f51-385d-4c19-941a-d30841014851)
 
 ![QQ截图20240606154639](https://github.com/ewoifuoi/Gallery/assets/47176322/9ed3a9b8-9ee5-4417-b643-729a85dce109)
